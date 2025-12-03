@@ -17,7 +17,9 @@ The repository includes:
 - `EarlyDiabetesML_Thesis.pdf` – thesis (public version)  
 - `presentation.pptx` – defense presentation  
 - `requirements.txt` – Python dependencies  
-- `describe.csv` – generated descriptive statistics (created automatically by the script)
+
+> **Note:** during execution the script saves descriptive statistics to `describe.csv`.  
+> This file is generated automatically and is **not** stored in the repository (it is ignored via `.gitignore`).
 
 ---
 
